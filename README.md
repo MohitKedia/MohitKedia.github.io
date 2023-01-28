@@ -7,3 +7,5 @@ PLEASE FIND BELOW THE LIST OF MY DATA SCIENCE PROJECTS :
 
 3.<a href="https://mohitkedia.github.io/Web-Scraping/"> Web Scraping in R</a>
 
+4.<a href="https://mohitkedia.github.io/Measuring-Learning-Outcome-via-doing-Quiz-level-analysis/"> Quiz level analysis</a>
+
